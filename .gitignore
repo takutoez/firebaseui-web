@@ -16,3 +16,4 @@ out/
 #Local config.
 **/.firebaserc
 demo/public/config.js
+package-lock.json
